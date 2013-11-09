@@ -1,0 +1,3 @@
+.vagrant/
+weber_test/
+start_in_vagrant.sh
