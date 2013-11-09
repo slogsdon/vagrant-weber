@@ -12,7 +12,7 @@ a template for using Vagrant for developing Elixir applications with Weber
 5. Run `sh start_in_vagrant.sh` to run weber
 6. Visit `http://localhost:8080/` in your favorite browser
 
-> ### Note
+> ##### Note
 >
 > The default project name is 'weber_test', so be sure to update `weber_project_name` in the `Vagrantfile` to 
 > reflect your needs.
